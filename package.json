@@ -1,0 +1,11 @@
+{
+  "name": "systemd-discord-webhook-2021",
+  "description": "NodeJS application that pushes failed systemd services to Discord",
+  "version": "1.0.0",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "commander": "^8.3.0",
+    "form-data": "^4.0.0",
+    "valid-url": "^1.0.9"
+  }
+}
